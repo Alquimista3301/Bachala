@@ -1,0 +1,16 @@
+[
+  {
+    "id": "01870f17-883a-4e7f-9155-b31d6c586ceb",
+    "data": [
+      {
+        "text": "codigo",
+        "alias": "Codigo",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

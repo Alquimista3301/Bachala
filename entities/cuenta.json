@@ -1,0 +1,9 @@
+{
+  "id": "eefe867d-3aeb-4672-8fe2-c12527ab1bbe",
+  "name": "cuenta",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

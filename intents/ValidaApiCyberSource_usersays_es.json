@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bc42df0c-53ed-407e-a428-5f1ad55d0adf",
+    "data": [
+      {
+        "text": "ValidaApi ",
+        "userDefined": false
+      },
+      {
+        "text": "55 6342 5634",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6184777b-28e0-4011-ad53-b90844ab5d34",
+    "data": [
+      {
+        "text": "ValidaApi ",
+        "userDefined": false
+      },
+      {
+        "text": "55 7955 3241",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2771502a-50c9-4d31-958c-bb3a9b4f2e72",
+    "data": [
+      {
+        "text": "ValidaApi ",
+        "userDefined": false
+      },
+      {
+        "text": "5541322897",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3a9125c-e51d-48e2-bc8d-2b8df0d4be96",
+    "data": [
+      {
+        "text": "ValidaApi ",
+        "userDefined": false
+      },
+      {
+        "text": "5562571501",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

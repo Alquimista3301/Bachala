@@ -1,0 +1,39 @@
+[
+  {
+    "id": "66e0af1b-b4f5-49dd-8460-145bee405d3d",
+    "data": [
+      {
+        "text": "crear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44f6a420-e227-41eb-9e62-e8e619781887",
+    "data": [
+      {
+        "text": "Crear cuenta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c43469ad-873c-4019-9e22-aa7fd701bef9",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

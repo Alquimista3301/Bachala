@@ -1,0 +1,63 @@
+[
+  {
+    "id": "509ba398-5a8f-4c96-a441-27dfa4f49967",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdbae91a-68d6-470d-8af1-3b7ad0cb1980",
+    "data": [
+      {
+        "text": "generar qr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aea209bd-c5ee-4cdd-ad69-76e1a8b00d69",
+    "data": [
+      {
+        "text": "deseo cobrar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3930afc0-5d4f-4386-bbcc-74bd163cda44",
+    "data": [
+      {
+        "text": "cobrar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c58732ca-0171-4f50-8e43-ed3040e97d65",
+    "data": [
+      {
+        "text": "quiero cobrar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

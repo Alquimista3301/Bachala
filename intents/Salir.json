@@ -1,0 +1,44 @@
+{
+  "id": "2ab2d96e-5b36-4001-b774-d25be5fedf9f",
+  "name": "Salir",
+  "auto": true,
+  "contexts": [
+    "finished"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "finished",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "welcomeDone",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Adios 😁"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

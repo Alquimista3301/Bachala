@@ -1,0 +1,60 @@
+[
+  {
+    "id": "bb8d31be-c749-476c-85d0-cf994685ddbd",
+    "data": [
+      {
+        "text": "Realizar pago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c475c9ec-591b-425a-9465-ff09bbc1d15f",
+    "data": [
+      {
+        "text": "Hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pago",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ecf5350-4e33-4932-8f56-4e792c38b1f3",
+    "data": [
+      {
+        "text": "Pagar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09308b4a-be5f-4de6-80ca-41af0ad9137f",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

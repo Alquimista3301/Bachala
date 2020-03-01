@@ -1,0 +1,77 @@
+{
+  "id": "34d977b0-f3b5-4219-b734-86afdbda0ab1",
+  "name": "Pagara",
+  "auto": true,
+  "contexts": [
+    "welcomeDone",
+    "option2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "finished",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "89114b22-7f83-4507-8b70-209d547e1a95",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "NoCuenta",
+          "value": "$NoCuenta",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "9b486133-8cea-4345-90f9-d97924aa404e",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "name": "currency-name",
+          "value": "$currency-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8cb4f97a-2207-4dee-a8d9-8751f86993c6",
+          "required": false,
+          "dataType": "@monto",
+          "name": "monto",
+          "value": "$monto",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6f6c86e7-3b97-4bc7-9616-48a75bd91ac2",
+    "data": [
+      {
+        "text": "pagar ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "monto",
+        "meta": "@monto",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pesos",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "cuenta",
+        "alias": "NoCuenta",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35f94f7a-a37e-4906-ae5b-d50e989f4da4",
+    "data": [
+      {
+        "text": "enviar ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "monto",
+        "meta": "@monto",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pesos",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "cuenta",
+        "alias": "NoCuenta",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28868530-f2d8-405f-bd3b-c4fbd64aafb3",
+    "data": [
+      {
+        "text": "pagar a ",
+        "userDefined": false
+      },
+      {
+        "text": "cuenta",
+        "alias": "NoCuenta",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77776fbd-258f-4d7a-bf46-5767696d3941",
+    "data": [
+      {
+        "text": "cuenta",
+        "alias": "NoCuenta",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

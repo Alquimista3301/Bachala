@@ -1,0 +1,89 @@
+{
+  "id": "519af922-6b9a-4ef2-9382-f7e42c3d4cea",
+  "name": "Generar QR",
+  "auto": true,
+  "contexts": [
+    "qr"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "47070117-b893-4a98-a55d-6e82dcfe920a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "es",
+          "condition": "",
+          "payload": {
+            "messages": [
+              {
+                "attachment": {
+                  "type": "template",
+                  "payload": {
+                    "template_type": "generic",
+                    "image_aspect_ratio": "square",
+                    "elements": [
+                      {
+                        "title": "Insert Card Title",
+                        "image_url": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?ixlib\u003drb-1.2.1\u0026ixid\u003deyJhcHBfaWQiOjEyMDd9\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1008\u0026q\u003d80",
+                        "subtitle": "Insert Subtitle",
+                        "buttons": [
+                          {
+                            "type": "web_url",
+                            "url": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?ixlib\u003drb-1.2.1\u0026ixid\u003deyJhcHBfaWQiOjEyMDd9\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1008\u0026q\u003d80",
+                            "title": "Insert Button Title"
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Insert Card 2 Title",
+                        "image_url": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?ixlib\u003drb-1.2.1\u0026ixid\u003deyJhcHBfaWQiOjEyMDd9\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1008\u0026q\u003d80",
+                        "subtitle": "Insert Subtitle 2",
+                        "default_action": {
+                          "type": "web_url",
+                          "url": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?ixlib\u003drb-1.2.1\u0026ixid\u003deyJhcHBfaWQiOjEyMDd9\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1008\u0026q\u003d80",
+                          "messenger_extensions": true
+                        },
+                        "buttons": [
+                          {
+                            "type": "web_url",
+                            "url": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?ixlib\u003drb-1.2.1\u0026ixid\u003deyJhcHBfaWQiOjEyMDd9\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1008\u0026q\u003d80",
+                            "title": "Insert Button Title 2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

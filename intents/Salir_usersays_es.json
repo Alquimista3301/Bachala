@@ -1,0 +1,27 @@
+[
+  {
+    "id": "749f5777-164e-475d-a857-070649391ec3",
+    "data": [
+      {
+        "text": "salir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70857b56-0eb6-4323-9998-3c5da95517f2",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "9b99ceb0-b947-4f67-9418-afe72e220ef0",
+  "name": "Codigo Correcto",
+  "auto": true,
+  "contexts": [
+    "welcomeDone"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "success",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d7bd89bc-1e1a-4c6c-80b2-eced02d42322",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "Codigo",
+          "value": "$Codigo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "Excelente (Nombre), ya estás listo para operar. 🚀\n¿Qué te gustaría hacer?\n1️⃣ Realizar un Pago.\n2️⃣ Cobrar por QR.\n3️⃣ Encontrar cajeros cercanos."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

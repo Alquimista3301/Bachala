@@ -1,0 +1,9 @@
+{
+  "id": "a8d8a946-ec9b-4663-be95-c4e6ebeebf0c",
+  "name": "monto",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

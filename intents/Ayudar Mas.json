@@ -1,0 +1,44 @@
+{
+  "id": "b629b1f2-c17e-4100-bed0-513bd97926f5",
+  "name": "Ayudar Mas",
+  "auto": true,
+  "contexts": [
+    "finished"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "finished",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "welcomeDone",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "condition": "",
+          "speech": "¿Qué te gustaría hacer?\n1️⃣ Crear una cuenta\n2️⃣ Realizar un Pago\n3️⃣ Cobrar por QR"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

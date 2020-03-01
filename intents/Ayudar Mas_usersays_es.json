@@ -1,0 +1,27 @@
+[
+  {
+    "id": "0f234c77-4cd3-459f-99b9-908081b7e1da",
+    "data": [
+      {
+        "text": "claro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13201e1e-0e60-4e95-8149-b3db372d6199",
+    "data": [
+      {
+        "text": "si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
